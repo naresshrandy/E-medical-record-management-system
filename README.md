@@ -27,12 +27,12 @@ This project is created for two users: Doctors and Medical Staff, where Doctors 
 10. Ready to go!
    
 👨‍👩‍👦‍👦 Team:
-Naresh Chintala
-Madhuri Jyothi Merla
-Sai Ramya Chittimalla
-Vanitha Akkala
-Asritha Kukudala
-Siddhartha Thakkalapally
+   Naresh Chintala
+   Madhuri Jyothi Merla
+   Sai Ramya Chittimalla
+   Vanitha Akkala
+   Asritha Kukudala
+   Siddhartha Thakkalapally
 
 If you liked the project and found it helpful
 Give a star 😄⭐
