@@ -15,24 +15,24 @@ This project is created for two users: Doctors and Medical Staff, where Doctors 
    6. MySQL connectors for java.
 
 ❓ How to start?
-1. Download this code as a zip file into your local system.
-2. Place this entire folder in htdocs, in xampp(xampp path, installed as per your installation).
-3. Open Xampp server, start Apache, MySQL.
-4. In the MySQL row, select Admin.
-5. Create a database with name "hp_mgmt_db" in phpmyadmin. Import the sql file from sql folder.
-6. After importation, click the folder project and identify the imported folder.
-7. Click the imported and right click on the folder.
-8. Choose add jar folder and import a downloaded mysql connector for java files.
-9. After that the environment is set to run the project.
-10. Ready to go!
+   1. Download this code as a zip file into your local system.
+   2. Place this entire folder in htdocs, in xampp(xampp path, installed as per your installation).
+   3. Open Xampp server, start Apache, MySQL.
+   4. In the MySQL row, select Admin.
+   5. Create a database with name "hp_mgmt_db" in phpmyadmin. Import the sql file from sql folder.
+   6. After importation, click the folder project and identify the imported folder.
+   7. Click the imported and right click on the folder.
+   8. Choose add jar folder and import a downloaded mysql connector for java files.
+   9. After that the environment is set to run the project.
+   10. Ready to go!
    
 👨‍👩‍👦‍👦 Team:
-   Naresh Chintala
-   Madhuri Jyothi Merla
-   Sai Ramya Chittimalla
-   Vanitha Akkala
-   Asritha Kukudala
-   Siddhartha Thakkalapally
+   1. Naresh Chintala
+   2. Madhuri Jyothi Merla
+   3. Sai Ramya Chittimalla
+   4. Vanitha Akkala
+   5. Asritha Kukudala
+   6. Siddhartha Thakkalapally
 
 If you liked the project and found it helpful
 Give a star 😄⭐
